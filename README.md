@@ -1,3 +1,12 @@
+# Site URL
+
+https://talorlik.github.io/ng4-playground
+
+# Deployment to GitHub
+
+1. ng build --prod --env=prod --base-href --base-href https://talorlik.githib.io/ng4-playground/
+2. ngh
+
 # Ng4Playground
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.

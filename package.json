@@ -10,6 +10,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "homepage": "https://talorlik.github.io/ng4-playground",
+  "repository": "https://github.com/talorlik/ng4-playground",
   "private": true,
   "dependencies": {
     "@angular/animations": "^5.1.3",
