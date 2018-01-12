@@ -4,7 +4,7 @@ https://talorlik.github.io/ng4-playground
 
 # Deployment to GitHub
 
-1. ng build --prod --env=prod --base-href https://talorlik.githib.io/ng4-playground/
+1. ng build --prod --env=prod --base-href https://talorlik.github.io/ng4-playground/
 2. ngh
 
 # Ng4Playground
